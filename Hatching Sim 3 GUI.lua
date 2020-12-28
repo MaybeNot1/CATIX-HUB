@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet(('https://pastebin.com/raw/FsJak6AT')))()
+local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/MaybeNot1/hatching/main/ui?token=AQLCQEXN7SF2ONNPII76YX275HAHO')))()
 
 local w3 = library:CreateWindow("Hatching Sim 3")
 local w2 = library:CreateWindow("Eggs")
